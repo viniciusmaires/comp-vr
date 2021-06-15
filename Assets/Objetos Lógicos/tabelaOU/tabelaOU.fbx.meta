@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: bc1ee776f3801a649af4c958ba64afc8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Texto
+    100006: Texto.001
+    100008: Texto.002
+    100010: Texto.003
+    100012: Texto.004
+    100014: Texto.005
+    100016: Texto.006
+    100018: Texto.007
+    100020: Texto.008
+    100022: Texto.009
+    100024: Texto.010
+    100026: Texto.011
+    100028: Texto.012
+    100030: Texto.013
+    100032: Texto.014
+    400000: Cube
+    400002: //RootNode
+    400004: Texto
+    400006: Texto.001
+    400008: Texto.002
+    400010: Texto.003
+    400012: Texto.004
+    400014: Texto.005
+    400016: Texto.006
+    400018: Texto.007
+    400020: Texto.008
+    400022: Texto.009
+    400024: Texto.010
+    400026: Texto.011
+    400028: Texto.012
+    400030: Texto.013
+    400032: Texto.014
+    2100000: CorLetra
+    2100002: Material
+    2100004: Vidro
+    2100006: VidroFundo
+    2100008: CorLetra.001
+    2100010: CorLetra.002
+    2100012: CorLetra.005
+    2100014: CorLetra.006
+    2100016: CorLetra.007
+    2100018: CorLetra.008
+    2100020: CorLetra.009
+    2100022: CorLetra.010
+    2100024: CorLetra.011
+    2100026: CorLetra.012
+    2100028: CorLetra.013
+    2100030: CorLetra.014
+    2100032: CorLetra.015
+    2100034: CorLetra.016
+    2300000: Cube
+    2300002: Texto
+    2300004: Texto.001
+    2300006: Texto.002
+    2300008: Texto.003
+    2300010: Texto.004
+    2300012: Texto.005
+    2300014: Texto.006
+    2300016: Texto.007
+    2300018: Texto.008
+    2300020: Texto.009
+    2300022: Texto.010
+    2300024: Texto.011
+    2300026: Texto.012
+    2300028: Texto.013
+    2300030: Texto.014
+    3300000: Cube
+    3300002: Texto
+    3300004: Texto.001
+    3300006: Texto.002
+    3300008: Texto.003
+    3300010: Texto.004
+    3300012: Texto.005
+    3300014: Texto.006
+    3300016: Texto.007
+    3300018: Texto.008
+    3300020: Texto.009
+    3300022: Texto.010
+    3300024: Texto.011
+    3300026: Texto.012
+    3300028: Texto.013
+    3300030: Texto.014
+    4300000: Texto
+    4300002: Cube
+    4300004: Texto.001
+    4300006: Texto.002
+    4300008: Texto.003
+    4300010: Texto.004
+    4300012: Texto.005
+    4300014: Texto.006
+    4300016: Texto.007
+    4300018: Texto.008
+    4300020: Texto.009
+    4300022: Texto.010
+    4300024: Texto.011
+    4300026: Texto.012
+    4300028: Texto.013
+    4300030: Texto.014
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.001
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.002
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.005
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.006
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.007
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.008
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.009
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.010
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.011
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.012
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.013
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.014
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.015
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorLetra.016
+    second: {fileID: 2100000, guid: bc9b274fb8bd84747aaca081e74a8a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d744f9c23aab3964dafe16ae4a8dff90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro
+    second: {fileID: 2100000, guid: d744f9c23aab3964dafe16ae4a8dff90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VidroFundo
+    second: {fileID: 2100000, guid: b9100de520379b24ead842f965ca072b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

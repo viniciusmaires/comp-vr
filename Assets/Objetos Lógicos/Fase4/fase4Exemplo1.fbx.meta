@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 9767124ca4579484ea3cc381dcb2144e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: //RootNode
+    100008: Fio
+    100010: Plano.000
+    100012: Plano.001
+    100014: Plano.002
+    100016: Plano.003
+    100018: Plano.004
+    100020: Plano.005
+    100022: Plano.006
+    100024: PortaESozinha
+    100026: PortaESozinha.001
+    100028: PortaESozinha.003
+    100030: PortaOuSozinha
+    100032: PortaOuSozinha.001
+    100034: PortaOuSozinha.003
+    100036: PortaOuSozinha.004
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: //RootNode
+    400008: Fio
+    400010: Plano.000
+    400012: Plano.001
+    400014: Plano.002
+    400016: Plano.003
+    400018: Plano.004
+    400020: Plano.005
+    400022: Plano.006
+    400024: PortaESozinha
+    400026: PortaESozinha.001
+    400028: PortaESozinha.003
+    400030: PortaOuSozinha
+    400032: PortaOuSozinha.001
+    400034: PortaOuSozinha.003
+    400036: PortaOuSozinha.004
+    2100000: Licacao.002
+    2100002: PortaE.003
+    2100004: Licacao.003
+    2100006: PortaOU.003
+    2100008: Materiais.007
+    2100010: Licacao.009
+    2100012: PortaE.009
+    2100014: PortaOU.009
+    2100016: Licacao.000
+    2100018: Materiais
+    2100020: Licacao.011
+    2100022: Licacao.012
+    2100024: Materiais.018
+    2100026: Licacao.013
+    2100028: Licacao.014
+    2100030: Licacao.015
+    2100032: Materiais.021
+    2100034: Licacao.016
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Fio
+    2300008: Plano.000
+    2300010: Plano.001
+    2300012: Plano.002
+    2300014: Plano.003
+    2300016: Plano.004
+    2300018: Plano.005
+    2300020: Plano.006
+    2300022: PortaESozinha
+    2300024: PortaESozinha.001
+    2300026: PortaESozinha.003
+    2300028: PortaOuSozinha
+    2300030: PortaOuSozinha.001
+    2300032: PortaOuSozinha.003
+    2300034: PortaOuSozinha.004
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Fio
+    3300008: Plano.000
+    3300010: Plano.001
+    3300012: Plano.002
+    3300014: Plano.003
+    3300016: Plano.004
+    3300018: Plano.005
+    3300020: Plano.006
+    3300022: PortaESozinha
+    3300024: PortaESozinha.001
+    3300026: PortaESozinha.003
+    3300028: PortaOuSozinha
+    3300030: PortaOuSozinha.001
+    3300032: PortaOuSozinha.003
+    3300034: PortaOuSozinha.004
+    4300000: Plano.004
+    4300002: PortaOuSozinha.001
+    4300004: Fio
+    4300006: Plano.000
+    4300008: Plano.001
+    4300010: PortaESozinha.001
+    4300012: PortaESozinha
+    4300014: PortaOuSozinha
+    4300016: Plano.003
+    4300018: PortaOuSozinha.004
+    4300020: PortaESozinha.003
+    4300022: Cube
+    4300024: Plano.005
+    4300026: Cube.001
+    4300028: PortaOuSozinha.003
+    4300030: Plano.002
+    4300032: Cube.002
+    4300034: Plano.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

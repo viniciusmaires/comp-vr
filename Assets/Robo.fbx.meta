@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 8e141db77d99f164bae02aeee66e2950
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebraco E
+    100002: Antebraco E.001
+    100004: Braco E
+    100006: Braco E.001
+    100008: Cabeca
+    100010: Camera
+    100012: Corpo
+    100014: Falange01
+    100016: Falange01.001
+    100018: Falange01.002
+    100020: Falange01.003
+    100022: Falange01.004
+    100024: Falange01.005
+    100026: Falange01.006
+    100028: Falange01.007
+    100030: Falange01.008
+    100032: Falange01.009
+    100034: Falange01.010
+    100036: Falange01.011
+    100038: Falange01.012
+    100040: Falange01.013
+    100042: Falange01.014
+    100044: Falange01.015
+    100046: Falange01.016
+    100048: Falange01.017
+    100050: Falange01.018
+    100052: Falange01.019
+    100054: Falange01.020
+    100056: Falange01.021
+    100058: Lamp
+    100060: Mao E
+    100062: Mao E.001
+    100064: Olhos
+    100066: //RootNode
+    100068: Visor
+    400000: Antebraco E
+    400002: Antebraco E.001
+    400004: Braco E
+    400006: Braco E.001
+    400008: Cabeca
+    400010: Camera
+    400012: Corpo
+    400014: Falange01
+    400016: Falange01.001
+    400018: Falange01.002
+    400020: Falange01.003
+    400022: Falange01.004
+    400024: Falange01.005
+    400026: Falange01.006
+    400028: Falange01.007
+    400030: Falange01.008
+    400032: Falange01.009
+    400034: Falange01.010
+    400036: Falange01.011
+    400038: Falange01.012
+    400040: Falange01.013
+    400042: Falange01.014
+    400044: Falange01.015
+    400046: Falange01.016
+    400048: Falange01.017
+    400050: Falange01.018
+    400052: Falange01.019
+    400054: Falange01.020
+    400056: Falange01.021
+    400058: Lamp
+    400060: Mao E
+    400062: Mao E.001
+    400064: Olhos
+    400066: //RootNode
+    400068: Visor
+    2000000: Camera
+    2100000: Cor 1
+    2100002: Cor 2
+    2100004: Metal
+    2100006: Fundo do visor
+    2100008: Olhos
+    2100010: Cor 1.001
+    2100012: Cor 2.001
+    2300000: Antebraco E
+    2300002: Antebraco E.001
+    2300004: Braco E
+    2300006: Braco E.001
+    2300008: Cabeca
+    2300010: Corpo
+    2300012: Falange01
+    2300014: Falange01.001
+    2300016: Falange01.002
+    2300018: Falange01.003
+    2300020: Falange01.004
+    2300022: Falange01.005
+    2300024: Falange01.006
+    2300026: Falange01.007
+    2300028: Falange01.008
+    2300030: Falange01.009
+    2300032: Falange01.010
+    2300034: Falange01.011
+    2300036: Falange01.012
+    2300038: Falange01.013
+    2300040: Falange01.014
+    2300042: Falange01.015
+    2300044: Falange01.016
+    2300046: Falange01.017
+    2300048: Falange01.018
+    2300050: Falange01.019
+    2300052: Falange01.020
+    2300054: Falange01.021
+    2300056: Mao E
+    2300058: Mao E.001
+    2300060: Olhos
+    2300062: Visor
+    3300000: Antebraco E
+    3300002: Antebraco E.001
+    3300004: Braco E
+    3300006: Braco E.001
+    3300008: Cabeca
+    3300010: Corpo
+    3300012: Falange01
+    3300014: Falange01.001
+    3300016: Falange01.002
+    3300018: Falange01.003
+    3300020: Falange01.004
+    3300022: Falange01.005
+    3300024: Falange01.006
+    3300026: Falange01.007
+    3300028: Falange01.008
+    3300030: Falange01.009
+    3300032: Falange01.010
+    3300034: Falange01.011
+    3300036: Falange01.012
+    3300038: Falange01.013
+    3300040: Falange01.014
+    3300042: Falange01.015
+    3300044: Falange01.016
+    3300046: Falange01.017
+    3300048: Falange01.018
+    3300050: Falange01.019
+    3300052: Falange01.020
+    3300054: Falange01.021
+    3300056: Mao E
+    3300058: Mao E.001
+    3300060: Olhos
+    3300062: Visor
+    4300000: Corpo
+    4300002: Braco E
+    4300004: Antebraco E
+    4300006: Mao E
+    4300008: Falange01.011
+    4300010: Falange01.012
+    4300012: Falange01
+    4300014: Falange01.010
+    4300016: Falange01.009
+    4300018: Falange01.005
+    4300020: Falange01.004
+    4300022: Falange01.003
+    4300024: Falange01.006
+    4300026: Falange01.007
+    4300028: Falange01.008
+    4300030: Cabeca
+    4300032: Visor
+    4300034: Olhos
+    4300036: Braco E.001
+    4300038: Antebraco E.001
+    4300040: Mao E.001
+    4300042: Falange01.021
+    4300044: Falange01.013
+    4300046: Falange01.014
+    4300048: Falange01.018
+    4300050: Falange01.019
+    4300052: Falange01.020
+    4300054: Falange01.017
+    4300056: Falange01.016
+    4300058: Falange01.015
+    4300060: Falange01.002
+    4300062: Falange01.001
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 27213159eb1fa704795f22c4626ff234
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebraco E
+    100002: Antebraco E.001
+    100004: Armature
+    100006: blackBoard_light
+    100008: blackBoard_upPart
+    100010: blackBoardLamp
+    100012: blackboardLamp
+    100014: boardFrame
+    100016: Bone
+    100018: Bone 1
+    100020: Bone 2
+    100022: Bone 3
+    100024: Bone 4
+    100026: Bone 5
+    100028: Bone 6
+    100030: Bone 7
+    100032: Bone.001
+    100034: Bone.001 1
+    100036: Bone.001 2
+    100038: Bone.001 3
+    100040: Bone.001 4
+    100042: Bone.001 5
+    100044: Bone.001 6
+    100046: Bone.001 7
+    100048: Bone.001_end
+    100050: Bone.001_end 1
+    100052: Bone.001_end 2
+    100054: Bone.001_end 3
+    100056: Bone.001_end 4
+    100058: Bone.001_end 5
+    100060: Bone.001_end 6
+    100062: Bone.001_end 7
+    100064: Bone.002
+    100066: Bone.002 1
+    100068: Bone.002 2
+    100070: Bone.002 3
+    100072: Bone.002 4
+    100074: Bone.002 5
+    100076: Bone.002 6
+    100078: Bone.002 7
+    100080: Bone.002_end
+    100082: Bone.002_end 1
+    100084: Bone.002_end 2
+    100086: Bone.002_end 3
+    100088: Bone.002_end 4
+    100090: Bone.002_end 5
+    100092: Bone.002_end 6
+    100094: Bone.002_end 7
+    100096: Bone_end
+    100098: Bone_end 1
+    100100: Bone_end 2
+    100102: Bone_end 3
+    100104: Bone_end 4
+    100106: Bone_end 5
+    100108: Bone_end 6
+    100110: Bone_end 7
+    100112: Box25.002
+    100114: Braco E
+    100116: Braco E.001
+    100118: Cabeca
+    100120: ceiling
+    100122: ceilingMoulding
+    100124: Cilindro
+    100126: Cilindro.001
+    100128: Cilindro.002
+    100130: Cilindro.003
+    100132: Cilindro.004
+    100134: Cilindro.005
+    100136: Cilindro.006
+    100138: Cilindro.007
+    100140: Cilindro.008
+    100142: Cilindro.009
+    100144: Circle.002
+    100146: Circle.003
+    100148: Circle.004
+    100150: //RootNode
+    100152: coridor_ceilingLight
+    100154: corkboard.001
+    100156: Corpo
+    100158: Cube
+    100160: Cube.000
+    100162: Cube.001
+    100164: Cube.002
+    100166: Cube.003
+    100168: Cube.004
+    100170: Cube.005
+    100172: Cube.006
+    100174: Cube.007
+    100176: Cube.008
+    100178: Cube.009
+    100180: Cube.010
+    100182: Cube.011
+    100184: Cube.012
+    100186: Cube.013
+    100188: Cube.014
+    100190: Cube.015
+    100192: Cube.016
+    100194: Cube.017
+    100196: Cube.018
+    100198: Cube.019
+    100200: Cube.020
+    100202: Cube.021
+    100204: Cube.024
+    100206: Cube.026
+    100208: Cube.027
+    100210: Cube.032
+    100212: Cube.034
+    100214: Cubo
+    100216: Cubo.001
+    100218: Cubo.002
+    100220: Cubo.003
+    100222: Cylinder
+    100224: Cylinder.000
+    100226: Cylinder.001
+    100228: Cylinder.002
+    100230: Cylinder.003
+    100232: Cylinder.004
+    100234: Cylinder.005
+    100236: Cylinder.006
+    100238: Cylinder.007
+    100240: Cylinder.008
+    100242: Cylinder.009
+    100244: Cylinder.010
+    100246: Cylinder.011
+    100248: Cylinder.012
+    100250: Cylinder.013
+    100252: Cylinder.014
+    100254: Cylinder.015
+    100256: Cylinder.016
+    100258: Cylinder.017
+    100260: Cylinder.018
+    100262: Cylinder.019
+    100264: Cylinder.020
+    100266: Cylinder.021
+    100268: Cylinder.022
+    100270: Cylinder.023
+    100272: Cylinder.024
+    100274: Cylinder.025
+    100276: Cylinder.026
+    100278: Cylinder.027
+    100280: Cylinder.028
+    100282: Cylinder.029
+    100284: Cylinder.030
+    100286: Cylinder.031
+    100288: Cylinder.032
+    100290: Cylinder.033
+    100292: Cylinder.034
+    100294: Cylinder.035
+    100296: Cylinder.036
+    100298: Cylinder.037
+    100300: Cylinder.038
+    100302: Cylinder.039
+    100304: Cylinder.040
+    100306: Cylinder.041
+    100308: Cylinder.042
+    100310: Cylinder.043
+    100312: Cylinder.044
+    100314: Cylinder.045
+    100316: Cylinder.046
+    100318: Cylinder.047
+    100320: Cylinder.048
+    100322: Cylinder.049
+    100324: Cylinder.050
+    100326: Cylinder.051
+    100328: Cylinder.052
+    100330: Cylinder.053
+    100332: Cylinder.054
+    100334: Cylinder.055
+    100336: Cylinder.059
+    100338: "C\xEDrculo"
+    100340: drawing
+    100342: drawing.001
+    100344: drawing.002
+    100346: drawing.003
+    100348: drawing.004
+    100350: drawing.005
+    100352: drawing.006
+    100354: drawing.007
+    100356: drawing.008
+    100358: Falange01
+    100360: Falange01.001
+    100362: Falange01.002
+    100364: Falange01.003
+    100366: Falange01.004
+    100368: Falange01.005
+    100370: Falange01.006
+    100372: Falange01.007
+    100374: Falange01.008
+    100376: Falange01.009
+    100378: Falange01.010
+    100380: Falange01.011
+    100382: Falange01.012
+    100384: Falange01.013
+    100386: Falange01.014
+    100388: Falange01.015
+    100390: Falange01.016
+    100392: Falange01.017
+    100394: Falange01.018
+    100396: Falange01.019
+    100398: Falange01.020
+    100400: Falange01.021
+    100402: Focal
+    100404: Focal.001
+    100406: focus
+    100408: hallWindow
+    100410: Lamp.001
+    100412: Line291.004
+    100414: Line291.005
+    100416: Lowpoly_Notebook
+    100418: Mao E
+    100420: Mao E.001
+    100422: Olhos
+    100424: Plane
+    100426: Plane.001
+    100428: plank
+    100430: Plano
+    100432: Plano.001
+    100434: Plano.002
+    100436: Plano.003
+    100438: porte.001
+    100440: Rectangle018.002
+    100442: Rectangle02.004
+    100444: Rectangle02.005
+    100446: sol
+    100448: Sphere
+    100450: Sphere.001
+    100452: Sphere.002
+    100454: Sphere.003
+    100456: Sphere.004
+    100458: Sphere.005
+    100460: Sphere.006
+    100462: Sphere.007
+    100464: Sphere.008
+    100466: Sphere.009
+    100468: Sphere.010
+    100470: store_armature
+    100472: store_armature.001
+    100474: store_armature.002
+    100476: store_armature.003
+    100478: store_armature.004
+    100480: store_armature.005
+    100482: store_armature.006
+    100484: store_armature.007
+    100486: store_UpDown
+    100488: Sun.001
+    100490: thumbtack.000
+    100492: thumbtack.004
+    100494: thumbtack.005
+    100496: thumbtack.006
+    100498: thumbtack.007
+    100500: thumbtack.008
+    100502: thumbtack.009
+    100504: thumbtack.011
+    100506: Torus
+    100508: venetianBlind_rotation
+    100510: venitianBlind
+    100512: venitianBlind.001
+    100514: venitianBlind.002
+    100516: venitianBlind.003
+    100518: venitianBlind.004
+    100520: venitianBlind.005
+    100522: venitianBlind.006
+    100524: venitianBlind.007
+    100526: verticalPipe
+    100528: Visor
+    100530: wall
+    100532: wall.001
+    100534: wall.002
+    100536: wall.003
+    100538: wall.004
+    100540: wall.005
+    100542: wall.006
+    100544: wall.007
+    100546: wall.008
+    100548: wall.009
+    100550: wall.010
+    100552: wall.012
+    100554: wallPlug
+    100556: wallPlug.002
+    100558: windows
+    100560: woodBase
+    100562: woodWindow
+    100564: woodWindow.001
+    100566: woodWindow.002
+    100568: woodWindow.003
+    100570: woodWindow.004
+    100572: woodWindow.005
+    100574: woodWindow.006
+    100576: woodWindow.007
+    100578: "\xC1rea"
+    100580: "\xC1rea.001"
+    100582: "\xC1rea.002"
+    400000: Antebraco E
+    400002: Antebraco E.001
+    400004: Armature
+    400006: blackBoard_light
+    400008: blackBoard_upPart
+    400010: blackBoardLamp
+    400012: blackboardLamp
+    400014: boardFrame
+    400016: Bone
+    400018: Bone 1
+    400020: Bone 2
+    400022: Bone 3
+    400024: Bone 4
+    400026: Bone 5
+    400028: Bone 6
+    400030: Bone 7
+    400032: Bone.001
+    400034: Bone.001 1
+    400036: Bone.001 2
+    400038: Bone.001 3
+    400040: Bone.001 4
+    400042: Bone.001 5
+    400044: Bone.001 6
+    400046: Bone.001 7
+    400048: Bone.001_end
+    400050: Bone.001_end 1
+    400052: Bone.001_end 2
+    400054: Bone.001_end 3
+    400056: Bone.001_end 4
+    400058: Bone.001_end 5
+    400060: Bone.001_end 6
+    400062: Bone.001_end 7
+    400064: Bone.002
+    400066: Bone.002 1
+    400068: Bone.002 2
+    400070: Bone.002 3
+    400072: Bone.002 4
+    400074: Bone.002 5
+    400076: Bone.002 6
+    400078: Bone.002 7
+    400080: Bone.002_end
+    400082: Bone.002_end 1
+    400084: Bone.002_end 2
+    400086: Bone.002_end 3
+    400088: Bone.002_end 4
+    400090: Bone.002_end 5
+    400092: Bone.002_end 6
+    400094: Bone.002_end 7
+    400096: Bone_end
+    400098: Bone_end 1
+    400100: Bone_end 2
+    400102: Bone_end 3
+    400104: Bone_end 4
+    400106: Bone_end 5
+    400108: Bone_end 6
+    400110: Bone_end 7
+    400112: Box25.002
+    400114: Braco E
+    400116: Braco E.001
+    400118: Cabeca
+    400120: ceiling
+    400122: ceilingMoulding
+    400124: Cilindro
+    400126: Cilindro.001
+    400128: Cilindro.002
+    400130: Cilindro.003
+    400132: Cilindro.004
+    400134: Cilindro.005
+    400136: Cilindro.006
+    400138: Cilindro.007
+    400140: Cilindro.008
+    400142: Cilindro.009
+    400144: Circle.002
+    400146: Circle.003
+    400148: Circle.004
+    400150: //RootNode
+    400152: coridor_ceilingLight
+    400154: corkboard.001
+    400156: Corpo
+    400158: Cube
+    400160: Cube.000
+    400162: Cube.001
+    400164: Cube.002
+    400166: Cube.003
+    400168: Cube.004
+    400170: Cube.005
+    400172: Cube.006
+    400174: Cube.007
+    400176: Cube.008
+    400178: Cube.009
+    400180: Cube.010
+    400182: Cube.011
+    400184: Cube.012
+    400186: Cube.013
+    400188: Cube.014
+    400190: Cube.015
+    400192: Cube.016
+    400194: Cube.017
+    400196: Cube.018
+    400198: Cube.019
+    400200: Cube.020
+    400202: Cube.021
+    400204: Cube.024
+    400206: Cube.026
+    400208: Cube.027
+    400210: Cube.032
+    400212: Cube.034
+    400214: Cubo
+    400216: Cubo.001
+    400218: Cubo.002
+    400220: Cubo.003
+    400222: Cylinder
+    400224: Cylinder.000
+    400226: Cylinder.001
+    400228: Cylinder.002
+    400230: Cylinder.003
+    400232: Cylinder.004
+    400234: Cylinder.005
+    400236: Cylinder.006
+    400238: Cylinder.007
+    400240: Cylinder.008
+    400242: Cylinder.009
+    400244: Cylinder.010
+    400246: Cylinder.011
+    400248: Cylinder.012
+    400250: Cylinder.013
+    400252: Cylinder.014
+    400254: Cylinder.015
+    400256: Cylinder.016
+    400258: Cylinder.017
+    400260: Cylinder.018
+    400262: Cylinder.019
+    400264: Cylinder.020
+    400266: Cylinder.021
+    400268: Cylinder.022
+    400270: Cylinder.023
+    400272: Cylinder.024
+    400274: Cylinder.025
+    400276: Cylinder.026
+    400278: Cylinder.027
+    400280: Cylinder.028
+    400282: Cylinder.029
+    400284: Cylinder.030
+    400286: Cylinder.031
+    400288: Cylinder.032
+    400290: Cylinder.033
+    400292: Cylinder.034
+    400294: Cylinder.035
+    400296: Cylinder.036
+    400298: Cylinder.037
+    400300: Cylinder.038
+    400302: Cylinder.039
+    400304: Cylinder.040
+    400306: Cylinder.041
+    400308: Cylinder.042
+    400310: Cylinder.043
+    400312: Cylinder.044
+    400314: Cylinder.045
+    400316: Cylinder.046
+    400318: Cylinder.047
+    400320: Cylinder.048
+    400322: Cylinder.049
+    400324: Cylinder.050
+    400326: Cylinder.051
+    400328: Cylinder.052
+    400330: Cylinder.053
+    400332: Cylinder.054
+    400334: Cylinder.055
+    400336: Cylinder.059
+    400338: "C\xEDrculo"
+    400340: drawing
+    400342: drawing.001
+    400344: drawing.002
+    400346: drawing.003
+    400348: drawing.004
+    400350: drawing.005
+    400352: drawing.006
+    400354: drawing.007
+    400356: drawing.008
+    400358: Falange01
+    400360: Falange01.001
+    400362: Falange01.002
+    400364: Falange01.003
+    400366: Falange01.004
+    400368: Falange01.005
+    400370: Falange01.006
+    400372: Falange01.007
+    400374: Falange01.008
+    400376: Falange01.009
+    400378: Falange01.010
+    400380: Falange01.011
+    400382: Falange01.012
+    400384: Falange01.013
+    400386: Falange01.014
+    400388: Falange01.015
+    400390: Falange01.016
+    400392: Falange01.017
+    400394: Falange01.018
+    400396: Falange01.019
+    400398: Falange01.020
+    400400: Falange01.021
+    400402: Focal
+    400404: Focal.001
+    400406: focus
+    400408: hallWindow
+    400410: Lamp.001
+    400412: Line291.004
+    400414: Line291.005
+    400416: Lowpoly_Notebook
+    400418: Mao E
+    400420: Mao E.001
+    400422: Olhos
+    400424: Plane
+    400426: Plane.001
+    400428: plank
+    400430: Plano
+    400432: Plano.001
+    400434: Plano.002
+    400436: Plano.003
+    400438: porte.001
+    400440: Rectangle018.002
+    400442: Rectangle02.004
+    400444: Rectangle02.005
+    400446: sol
+    400448: Sphere
+    400450: Sphere.001
+    400452: Sphere.002
+    400454: Sphere.003
+    400456: Sphere.004
+    400458: Sphere.005
+    400460: Sphere.006
+    400462: Sphere.007
+    400464: Sphere.008
+    400466: Sphere.009
+    400468: Sphere.010
+    400470: store_armature
+    400472: store_armature.001
+    400474: store_armature.002
+    400476: store_armature.003
+    400478: store_armature.004
+    400480: store_armature.005
+    400482: store_armature.006
+    400484: store_armature.007
+    400486: store_UpDown
+    400488: Sun.001
+    400490: thumbtack.000
+    400492: thumbtack.004
+    400494: thumbtack.005
+    400496: thumbtack.006
+    400498: thumbtack.007
+    400500: thumbtack.008
+    400502: thumbtack.009
+    400504: thumbtack.011
+    400506: Torus
+    400508: venetianBlind_rotation
+    400510: venitianBlind
+    400512: venitianBlind.001
+    400514: venitianBlind.002
+    400516: venitianBlind.003
+    400518: venitianBlind.004
+    400520: venitianBlind.005
+    400522: venitianBlind.006
+    400524: venitianBlind.007
+    400526: verticalPipe
+    400528: Visor
+    400530: wall
+    400532: wall.001
+    400534: wall.002
+    400536: wall.003
+    400538: wall.004
+    400540: wall.005
+    400542: wall.006
+    400544: wall.007
+    400546: wall.008
+    400548: wall.009
+    400550: wall.010
+    400552: wall.012
+    400554: wallPlug
+    400556: wallPlug.002
+    400558: windows
+    400560: woodBase
+    400562: woodWindow
+    400564: woodWindow.001
+    400566: woodWindow.002
+    400568: woodWindow.003
+    400570: woodWindow.004
+    400572: woodWindow.005
+    400574: woodWindow.006
+    400576: woodWindow.007
+    400578: "\xC1rea"
+    400580: "\xC1rea.001"
+    400582: "\xC1rea.002"
+    2100000: Materiais.003
+    2100002: Material
+    2100004: Texture
+    2100006: Material.002
+    2100008: beigePaintedwood
+    2100010: porcelainHandle
+    2100012: varnishedWoodDoor
+    2100014: No Name
+    2100016: drawing.008
+    2100018: coloredPlastic
+    2100020: sc.blade
+    2100022: drawing.002
+    2100024: drawing.006
+    2100026: drawing.007
+    2100028: drawing.005
+    2100030: drawing.003
+    2100032: drawing.001
+    2100034: blackBoardLight
+    2100036: boardFrame
+    2100038: paintedBlind
+    2100040: frostedGlass
+    2100042: Cinzadaparede
+    2100044: dayLight_portal
+    2100046: whitePaintedWindow
+    2100048: Metall
+    2100050: Materiais.001
+    2100052: white_glossPaint
+    2100054: plaster
+    2100056: Cor 1
+    2100058: Cor 2
+    2100060: Cor 1.001
+    2100062: Cor 2.001
+    2100064: Metal
+    2100066: Fundo do visor
+    2100068: Olhos
+    2100070: Materiais
+    2100072: Materiais.000
+    2100074: Materiais.002
+    2100076: Material.015
+    2100078: Lowpoly_Body
+    2100080: Neon
+    2100082: Materiais.019
+    2100084: Materiais.018
+    2100086: Materiais.017
+    2100088: Materiais.008
+    2100090: Materiais.014
+    2100092: Materiais.009
+    2100094: Materiais.006
+    2100096: Materiais.007
+    2100098: Placa
+    2100100: Materiais.010
+    2100102: Materiais.005
+    2100104: Materiais.011
+    2100106: Materiais.012
+    2100108: Materiais.013
+    2100110: Materiais.016
+    2100112: Materiais.015
+    2100114: Materiais.004
+    2100116: Material.009
+    2100118: Material.003
+    2100120: Material.001
+    2100122: Material.004
+    2100124: Materiais.028
+    2100126: Materiais.029
+    2100128: Materiais.027
+    2100130: Material.005
+    2100132: Material.017
+    2100134: Material.016
+    2100136: Material.008
+    2100138: Materiais.033
+    2100140: Materiais.032
+    2100142: Materiais.030
+    2100144: Materiais.031
+    2300000: Antebraco E
+    2300002: Antebraco E.001
+    2300004: blackBoard_upPart
+    2300006: blackBoardLamp
+    2300008: blackboardLamp
+    2300010: boardFrame
+    2300012: Box25.002
+    2300014: Braco E
+    2300016: Braco E.001
+    2300018: Cabeca
+    2300020: ceiling
+    2300022: ceilingMoulding
+    2300024: Cilindro
+    2300026: Cilindro.001
+    2300028: Cilindro.002
+    2300030: Cilindro.003
+    2300032: Cilindro.004
+    2300034: Cilindro.005
+    2300036: Cilindro.006
+    2300038: Cilindro.007
+    2300040: Cilindro.008
+    2300042: Cilindro.009
+    2300044: Circle.002
+    2300046: Circle.003
+    2300048: Circle.004
+    2300050: corkboard.001
+    2300052: Corpo
+    2300054: Cube
+    2300056: Cube.000
+    2300058: Cube.001
+    2300060: Cube.003
+    2300062: Cube.004
+    2300064: Cube.006
+    2300066: Cube.007
+    2300068: Cube.009
+    2300070: Cube.010
+    2300072: Cube.012
+    2300074: Cube.013
+    2300076: Cube.015
+    2300078: Cube.016
+    2300080: Cube.018
+    2300082: Cube.019
+    2300084: Cube.024
+    2300086: Cube.026
+    2300088: Cube.027
+    2300090: Cube.032
+    2300092: Cube.034
+    2300094: Cubo
+    2300096: Cubo.001
+    2300098: Cubo.002
+    2300100: Cubo.003
+    2300102: Cylinder
+    2300104: Cylinder.000
+    2300106: Cylinder.001
+    2300108: Cylinder.002
+    2300110: Cylinder.003
+    2300112: Cylinder.004
+    2300114: Cylinder.005
+    2300116: Cylinder.006
+    2300118: Cylinder.007
+    2300120: Cylinder.008
+    2300122: Cylinder.009
+    2300124: Cylinder.010
+    2300126: Cylinder.011
+    2300128: Cylinder.012
+    2300130: Cylinder.013
+    2300132: Cylinder.014
+    2300134: Cylinder.015
+    2300136: Cylinder.016
+    2300138: Cylinder.017
+    2300140: Cylinder.018
+    2300142: Cylinder.019
+    2300144: Cylinder.020
+    2300146: Cylinder.021
+    2300148: Cylinder.022
+    2300150: Cylinder.023
+    2300152: Cylinder.024
+    2300154: Cylinder.025
+    2300156: Cylinder.026
+    2300158: Cylinder.027
+    2300160: Cylinder.028
+    2300162: Cylinder.029
+    2300164: Cylinder.030
+    2300166: Cylinder.031
+    2300168: Cylinder.032
+    2300170: Cylinder.033
+    2300172: Cylinder.034
+    2300174: Cylinder.035
+    2300176: Cylinder.036
+    2300178: Cylinder.037
+    2300180: Cylinder.038
+    2300182: Cylinder.039
+    2300184: Cylinder.040
+    2300186: Cylinder.041
+    2300188: Cylinder.042
+    2300190: Cylinder.043
+    2300192: Cylinder.044
+    2300194: Cylinder.045
+    2300196: Cylinder.046
+    2300198: Cylinder.047
+    2300200: Cylinder.048
+    2300202: Cylinder.049
+    2300204: Cylinder.050
+    2300206: Cylinder.051
+    2300208: Cylinder.052
+    2300210: Cylinder.053
+    2300212: Cylinder.054
+    2300214: Cylinder.055
+    2300216: Cylinder.059
+    2300218: "C\xEDrculo"
+    2300220: drawing
+    2300222: drawing.001
+    2300224: drawing.002
+    2300226: drawing.003
+    2300228: drawing.004
+    2300230: drawing.005
+    2300232: drawing.006
+    2300234: drawing.007
+    2300236: drawing.008
+    2300238: Falange01
+    2300240: Falange01.001
+    2300242: Falange01.002
+    2300244: Falange01.003
+    2300246: Falange01.004
+    2300248: Falange01.005
+    2300250: Falange01.006
+    2300252: Falange01.007
+    2300254: Falange01.008
+    2300256: Falange01.009
+    2300258: Falange01.010
+    2300260: Falange01.011
+    2300262: Falange01.012
+    2300264: Falange01.013
+    2300266: Falange01.014
+    2300268: Falange01.015
+    2300270: Falange01.016
+    2300272: Falange01.017
+    2300274: Falange01.018
+    2300276: Falange01.019
+    2300278: Falange01.020
+    2300280: Falange01.021
+    2300282: focus
+    2300284: hallWindow
+    2300286: Line291.004
+    2300288: Line291.005
+    2300290: Lowpoly_Notebook
+    2300292: Mao E
+    2300294: Mao E.001
+    2300296: Olhos
+    2300298: Plane
+    2300300: Plane.001
+    2300302: plank
+    2300304: Plano
+    2300306: Plano.001
+    2300308: Plano.002
+    2300310: Plano.003
+    2300312: porte.001
+    2300314: Rectangle018.002
+    2300316: Rectangle02.004
+    2300318: Rectangle02.005
+    2300320: sol
+    2300322: Sphere
+    2300324: Sphere.001
+    2300326: Sphere.002
+    2300328: Sphere.003
+    2300330: Sphere.004
+    2300332: Sphere.005
+    2300334: Sphere.006
+    2300336: Sphere.007
+    2300338: Sphere.008
+    2300340: Sphere.009
+    2300342: Sphere.010
+    2300344: store_UpDown
+    2300346: thumbtack.000
+    2300348: thumbtack.004
+    2300350: thumbtack.005
+    2300352: thumbtack.006
+    2300354: thumbtack.007
+    2300356: thumbtack.008
+    2300358: thumbtack.009
+    2300360: thumbtack.011
+    2300362: Torus
+    2300364: venetianBlind_rotation
+    2300366: venitianBlind
+    2300368: venitianBlind.001
+    2300370: venitianBlind.002
+    2300372: venitianBlind.003
+    2300374: venitianBlind.004
+    2300376: venitianBlind.005
+    2300378: venitianBlind.006
+    2300380: venitianBlind.007
+    2300382: verticalPipe
+    2300384: Visor
+    2300386: wall
+    2300388: wall.001
+    2300390: wall.002
+    2300392: wall.003
+    2300394: wall.004
+    2300396: wall.005
+    2300398: wall.006
+    2300400: wall.007
+    2300402: wall.008
+    2300404: wall.009
+    2300406: wall.010
+    2300408: wall.012
+    2300410: wallPlug
+    2300412: wallPlug.002
+    2300414: windows
+    2300416: woodBase
+    2300418: woodWindow
+    2300420: woodWindow.001
+    2300422: woodWindow.002
+    2300424: woodWindow.003
+    2300426: woodWindow.004
+    2300428: woodWindow.005
+    2300430: woodWindow.006
+    2300432: woodWindow.007
+    3300000: Antebraco E
+    3300002: Antebraco E.001
+    3300004: blackBoard_upPart
+    3300006: blackBoardLamp
+    3300008: blackboardLamp
+    3300010: boardFrame
+    3300012: Box25.002
+    3300014: Braco E
+    3300016: Braco E.001
+    3300018: Cabeca
+    3300020: ceiling
+    3300022: ceilingMoulding
+    3300024: Cilindro
+    3300026: Cilindro.001
+    3300028: Cilindro.002
+    3300030: Cilindro.003
+    3300032: Cilindro.004
+    3300034: Cilindro.005
+    3300036: Cilindro.006
+    3300038: Cilindro.007
+    3300040: Cilindro.008
+    3300042: Cilindro.009
+    3300044: Circle.002
+    3300046: Circle.003
+    3300048: Circle.004
+    3300050: corkboard.001
+    3300052: Corpo
+    3300054: Cube
+    3300056: Cube.000
+    3300058: Cube.001
+    3300060: Cube.003
+    3300062: Cube.004
+    3300064: Cube.006
+    3300066: Cube.007
+    3300068: Cube.009
+    3300070: Cube.010
+    3300072: Cube.012
+    3300074: Cube.013
+    3300076: Cube.015
+    3300078: Cube.016
+    3300080: Cube.018
+    3300082: Cube.019
+    3300084: Cube.024
+    3300086: Cube.026
+    3300088: Cube.027
+    3300090: Cube.032
+    3300092: Cube.034
+    3300094: Cubo
+    3300096: Cubo.001
+    3300098: Cubo.002
+    3300100: Cubo.003
+    3300102: Cylinder
+    3300104: Cylinder.000
+    3300106: Cylinder.001
+    3300108: Cylinder.002
+    3300110: Cylinder.003
+    3300112: Cylinder.004
+    3300114: Cylinder.005
+    3300116: Cylinder.006
+    3300118: Cylinder.007
+    3300120: Cylinder.008
+    3300122: Cylinder.009
+    3300124: Cylinder.010
+    3300126: Cylinder.011
+    3300128: Cylinder.012
+    3300130: Cylinder.013
+    3300132: Cylinder.014
+    3300134: Cylinder.015
+    3300136: Cylinder.016
+    3300138: Cylinder.017
+    3300140: Cylinder.018
+    3300142: Cylinder.019
+    3300144: Cylinder.020
+    3300146: Cylinder.021
+    3300148: Cylinder.022
+    3300150: Cylinder.023
+    3300152: Cylinder.024
+    3300154: Cylinder.025
+    3300156: Cylinder.026
+    3300158: Cylinder.027
+    3300160: Cylinder.028
+    3300162: Cylinder.029
+    3300164: Cylinder.030
+    3300166: Cylinder.031
+    3300168: Cylinder.032
+    3300170: Cylinder.033
+    3300172: Cylinder.034
+    3300174: Cylinder.035
+    3300176: Cylinder.036
+    3300178: Cylinder.037
+    3300180: Cylinder.038
+    3300182: Cylinder.039
+    3300184: Cylinder.040
+    3300186: Cylinder.041
+    3300188: Cylinder.042
+    3300190: Cylinder.043
+    3300192: Cylinder.044
+    3300194: Cylinder.045
+    3300196: Cylinder.046
+    3300198: Cylinder.047
+    3300200: Cylinder.048
+    3300202: Cylinder.049
+    3300204: Cylinder.050
+    3300206: Cylinder.051
+    3300208: Cylinder.052
+    3300210: Cylinder.053
+    3300212: Cylinder.054
+    3300214: Cylinder.055
+    3300216: Cylinder.059
+    3300218: "C\xEDrculo"
+    3300220: drawing
+    3300222: drawing.001
+    3300224: drawing.002
+    3300226: drawing.003
+    3300228: drawing.004
+    3300230: drawing.005
+    3300232: drawing.006
+    3300234: drawing.007
+    3300236: drawing.008
+    3300238: Falange01
+    3300240: Falange01.001
+    3300242: Falange01.002
+    3300244: Falange01.003
+    3300246: Falange01.004
+    3300248: Falange01.005
+    3300250: Falange01.006
+    3300252: Falange01.007
+    3300254: Falange01.008
+    3300256: Falange01.009
+    3300258: Falange01.010
+    3300260: Falange01.011
+    3300262: Falange01.012
+    3300264: Falange01.013
+    3300266: Falange01.014
+    3300268: Falange01.015
+    3300270: Falange01.016
+    3300272: Falange01.017
+    3300274: Falange01.018
+    3300276: Falange01.019
+    3300278: Falange01.020
+    3300280: Falange01.021
+    3300282: focus
+    3300284: hallWindow
+    3300286: Line291.004
+    3300288: Line291.005
+    3300290: Lowpoly_Notebook
+    3300292: Mao E
+    3300294: Mao E.001
+    3300296: Olhos
+    3300298: Plane
+    3300300: Plane.001
+    3300302: plank
+    3300304: Plano
+    3300306: Plano.001
+    3300308: Plano.002
+    3300310: Plano.003
+    3300312: porte.001
+    3300314: Rectangle018.002
+    3300316: Rectangle02.004
+    3300318: Rectangle02.005
+    3300320: sol
+    3300322: Sphere
+    3300324: Sphere.001
+    3300326: Sphere.002
+    3300328: Sphere.003
+    3300330: Sphere.004
+    3300332: Sphere.005
+    3300334: Sphere.006
+    3300336: Sphere.007
+    3300338: Sphere.008
+    3300340: Sphere.009
+    3300342: Sphere.010
+    3300344: store_UpDown
+    3300346: thumbtack.000
+    3300348: thumbtack.004
+    3300350: thumbtack.005
+    3300352: thumbtack.006
+    3300354: thumbtack.007
+    3300356: thumbtack.008
+    3300358: thumbtack.009
+    3300360: thumbtack.011
+    3300362: Torus
+    3300364: venetianBlind_rotation
+    3300366: venitianBlind
+    3300368: venitianBlind.001
+    3300370: venitianBlind.002
+    3300372: venitianBlind.003
+    3300374: venitianBlind.004
+    3300376: venitianBlind.005
+    3300378: venitianBlind.006
+    3300380: venitianBlind.007
+    3300382: verticalPipe
+    3300384: Visor
+    3300386: wall
+    3300388: wall.001
+    3300390: wall.002
+    3300392: wall.003
+    3300394: wall.004
+    3300396: wall.005
+    3300398: wall.006
+    3300400: wall.007
+    3300402: wall.008
+    3300404: wall.009
+    3300406: wall.010
+    3300408: wall.012
+    3300410: wallPlug
+    3300412: wallPlug.002
+    3300414: windows
+    3300416: woodBase
+    3300418: woodWindow
+    3300420: woodWindow.001
+    3300422: woodWindow.002
+    3300424: woodWindow.003
+    3300426: woodWindow.004
+    3300428: woodWindow.005
+    3300430: woodWindow.006
+    3300432: woodWindow.007
+    4300000: Plano.002
+    4300002: Plano
+    4300004: Sphere.002
+    4300006: Sphere.001
+    4300008: porte.001
+    4300010: Rectangle02.005
+    4300012: Cube.027
+    4300014: Cube.026
+    4300016: Line291.005
+    4300018: Line291.004
+    4300020: Rectangle018.002
+    4300022: Box25.002
+    4300024: corkboard.001
+    4300026: drawing.001
+    4300028: thumbtack.000
+    4300030: drawing.002
+    4300032: drawing.006
+    4300034: drawing.003
+    4300036: drawing.004
+    4300038: drawing.005
+    4300040: drawing.007
+    4300042: drawing.008
+    4300044: drawing
+    4300046: ceilingMoulding
+    4300048: verticalPipe
+    4300050: blackboardLamp
+    4300052: boardFrame
+    4300054: venitianBlind.001
+    4300056: Cylinder.055
+    4300058: Cube.019
+    4300060: Cube.018
+    4300062: Cylinder.054
+    4300064: Cylinder.053
+    4300066: Cylinder.052
+    4300068: Cylinder.051
+    4300070: Cylinder.050
+    4300072: Cylinder.049
+    4300074: Cube.020
+    4300076: Cylinder.048
+    4300078: Cylinder.047
+    4300080: Cylinder.046
+    4300082: Cylinder.045
+    4300084: Cylinder.044
+    4300086: Cylinder.043
+    4300088: Cylinder.042
+    4300090: Cube.017
+    4300092: Cylinder.041
+    4300094: Cylinder.040
+    4300096: Cylinder.039
+    4300098: Cylinder.038
+    4300100: Cylinder.037
+    4300102: Cylinder.036
+    4300104: Cylinder.035
+    4300106: Cube.014
+    4300108: Cylinder.034
+    4300110: Cylinder.033
+    4300112: Cylinder.032
+    4300114: Cylinder.031
+    4300116: Cylinder.030
+    4300118: Cylinder.029
+    4300120: Cylinder.028
+    4300122: Cube.011
+    4300124: Cylinder.027
+    4300126: Cylinder.026
+    4300128: Cylinder.025
+    4300130: Cylinder.024
+    4300132: Cylinder.023
+    4300134: Cylinder.022
+    4300136: Cylinder.021
+    4300138: Cube.008
+    4300140: Cylinder.020
+    4300142: Cylinder.019
+    4300144: Cylinder.018
+    4300146: Cylinder.017
+    4300148: Cylinder.016
+    4300150: Cylinder.015
+    4300152: Cylinder.014
+    4300154: Cube.005
+    4300156: Cylinder.007
+    4300158: Cylinder.013
+    4300160: Cylinder.012
+    4300162: Cylinder.011
+    4300164: Cylinder.010
+    4300166: Cylinder.009
+    4300168: Cylinder.008
+    4300170: Cube.002
+    4300172: store_UpDown
+    4300174: Cylinder.006
+    4300176: Cylinder.002
+    4300178: Cylinder.000
+    4300180: Cylinder.001
+    4300182: Cylinder.003
+    4300184: Cylinder.004
+    4300186: Cylinder.005
+    4300188: Cube.021
+    4300190: venetianBlind_rotation
+    4300192: woodBase
+    4300194: plank
+    4300196: wall.001
+    4300198: focus
+    4300200: hallWindow
+    4300202: windows
+    4300204: woodWindow.001
+    4300206: wall.005
+    4300208: wall.006
+    4300210: wall.007
+    4300212: wall.008
+    4300214: sol
+    4300216: wall.012
+    4300218: wall
+    4300220: wall.009
+    4300222: wallPlug
+    4300224: blackBoard_upPart
+    4300226: wall.010
+    4300228: blackBoardLamp
+    4300230: ceiling
+    4300232: Sphere
+    4300234: Corpo
+    4300236: Braco E.001
+    4300238: Antebraco E.001
+    4300240: Mao E.001
+    4300242: Falange01.002
+    4300244: Falange01.001
+    4300246: Falange01.017
+    4300248: Falange01.016
+    4300250: Falange01.015
+    4300252: Falange01.018
+    4300254: Falange01.019
+    4300256: Falange01.020
+    4300258: Falange01.021
+    4300260: Falange01.013
+    4300262: Falange01.014
+    4300264: Braco E
+    4300266: Antebraco E
+    4300268: Mao E
+    4300270: Falange01.005
+    4300272: Falange01.004
+    4300274: Falange01.003
+    4300276: Falange01.006
+    4300278: Falange01.007
+    4300280: Falange01.008
+    4300282: Falange01.011
+    4300284: Falange01.012
+    4300286: Falange01
+    4300288: Falange01.010
+    4300290: Falange01.009
+    4300292: Cabeca
+    4300294: Visor
+    4300296: Olhos
+    4300298: Cube.024
+    4300300: Cylinder.059
+    4300302: Plano.001
+    4300304: Lowpoly_Notebook
+    4300306: Cilindro.001
+    4300308: Cilindro.002
+    4300310: Cilindro.003
+    4300312: Cilindro.004
+    4300314: Cilindro.005
+    4300316: Cilindro.006
+    4300318: Cilindro.007
+    4300320: Cilindro.008
+    4300322: Cilindro
+    4300324: Cubo.001
+    4300326: Cubo.002
+    4300328: Cubo
+    4300330: "C\xEDrculo"
+    4300332: Cylinder
+    4300334: Plane
+    4300336: Sphere.003
+    4300338: Torus
+    4300340: Cilindro.009
+    4300342: Cube
+    4300344: Plano.003
+    4300346: Circle.003
+    4300348: Circle.002
+    4300350: Circle.004
+    4300352: Plane.001
+    4300354: Sphere.009
+    4300356: Sphere.008
+    4300358: Sphere.007
+    4300360: Sphere.004
+    4300362: Sphere.005
+    4300364: Sphere.006
+    4300366: Sphere.010
+    4300368: Cubo.003
+    7400000: Armature|Shader NodetreeAction_L_lib
+    9500000: //RootNode
+    10800000: blackBoard_light
+    10800002: coridor_ceilingLight
+    10800004: Focal
+    10800006: Focal.001
+    10800008: Lamp.001
+    10800010: Sun.001
+    10800012: "\xC1rea"
+    10800014: "\xC1rea.001"
+    10800016: "\xC1rea.002"
+    13700000: Cube.002
+    13700002: Cube.005
+    13700004: Cube.008
+    13700006: Cube.011
+    13700008: Cube.014
+    13700010: Cube.017
+    13700012: Cube.020
+    13700014: Cube.021
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
