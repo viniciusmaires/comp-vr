@@ -26,7 +26,7 @@ A aplicação conta com algumas funcionalidades já implementadas:
 - [X] Fase com tema sobre números binários.
 - [X] Tutorial.
 - [X] Desafios.
-- [X] Integração com Sansung Gear VR.
+- [X] Integração com Samsung Gear VR.
 
 ## Como utilizar? 
 
